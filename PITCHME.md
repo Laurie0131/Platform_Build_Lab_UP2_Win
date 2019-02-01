@@ -77,6 +77,15 @@ Available from <a href="https://www.aaeon.com/">Aaeon </a> <br> order at: <a hre
 Note:
 
 This lab shows the build process for an actual platform – UP Squared
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fksr-ugc.imgix.net%2Fassets%2F014%2F192%2F390%2Fb48b13570b839fdb254d046a4e5fe703_original.png%3Fixlib%3Drb-1.1.0%26crop%3Dfaces%26w%3D1552%26h%3D873%26fit%3Dcrop%26v%3D1479219233%26auto%3Dformat%26frame%3D1%26q%3D92%26s%3Dd8c8e37c0ed5f65b97557dd77e441059&imgrefurl=https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2F802007522%2Fup-squared-the-first-maker-board-with-intel-apollo&docid=hdDbuF0mF4AVzM&tbnid=rQVd58-OYexfgM%3A&vet=10ahUKEwjb-uLy_JDgAhUKsFQKHUnbC7wQMwhCKAIwAg..i&w=1552&h=873&bih=851&biw=1378&q=up%20squared&ved=0ahUKEwjb-uLy_JDgAhUKsFQKHUnbC7wQMwhCKAIwAg&iact=mrc&uact=8
+
+
+
+Using Tianocore source
+Open source EDK II plus open source binary obj. packages
+
+
+This lab shows the build process for an actual platform – UP Squared
 
 - Using Tianocore source
 - Open source EDK II plus open source binary obj. packages
@@ -284,6 +293,9 @@ Available from <a href="https://www.aaeon.com/">Aaeon </a> <br> order at: <a hre
 @snapend
 
 Note:
+
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fksr-ugc.imgix.net%2Fassets%2F014%2F192%2F390%2Fb48b13570b839fdb254d046a4e5fe703_original.png%3Fixlib%3Drb-1.1.0%26crop%3Dfaces%26w%3D1552%26h%3D873%26fit%3Dcrop%26v%3D1479219233%26auto%3Dformat%26frame%3D1%26q%3D92%26s%3Dd8c8e37c0ed5f65b97557dd77e441059&imgrefurl=https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2F802007522%2Fup-squared-the-first-maker-board-with-intel-apollo&docid=hdDbuF0mF4AVzM&tbnid=rQVd58-OYexfgM%3A&vet=10ahUKEwjb-uLy_JDgAhUKsFQKHUnbC7wQMwhCKAIwAg..i&w=1552&h=873&bih=851&biw=1378&q=up%20squared&ved=0ahUKEwjb-uLy_JDgAhUKsFQKHUnbC7wQMwhCKAIwAg&iact=mrc&uact=8
+
 
 -  Intel® Celerontm processor N3350 Series (Formerly Apollo Lake)
 
