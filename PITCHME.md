@@ -576,11 +576,11 @@ Note:
 @box[bg-purple-pp text-white rounded my-box-pad2  ](<p style="line-height:70%" align="center"><span style="font-size:0.8em">Platform Build Scripts<br>&nbsp; </span></p>)
 <p style="line-height:80%"><span style="font-size:0.8em">Many Platforms have a bash or bat script file to pre or post process the EDK II build process</span></p>
 
-<p style="line-height:70%"><span style="font-size:0.7em">For UP Squared Broxton Platform : `BuildBIOS.bat or BuildBIOS.sh` calls: <br></span>
+<p style="line-height:70%"><span style="font-size:0.7em">For UP Squared Broxton Platform : @color[#87E2A9](`BuildBIOS.bat`) or @color[#87E2A9](`BuildBIOS.sh`) calls: <br></span>
 <span style="font-size:0.7em"><br>
-&nbsp;&nbsp;`BuildIFWI` from the platform package directory <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`.. Platform/BroxtonPlatformPkg` <br>
+&nbsp;&nbsp;@color[#87E2A9](`BuildIFWI`) from the platform package directory <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`.. Platform/BroxtonPlatformPkg` <br>
 &nbsp;&nbsp;&nbsp;&ndash; pre build processing <br>
-&nbsp;&nbsp;&nbsp;&ndash;  calls `BuildBxtBios` - a platform script to preform the EDK II `build` <br> 
+&nbsp;&nbsp;&nbsp;&ndash;  calls @color[#87E2A9](`BuildBxtBios`) - a platform script to preform the EDK II `build` <br> 
 &nbsp;&nbsp;&nbsp;&ndash; determines date <br>
 &nbsp;&nbsp;&nbsp;&ndash; board ID<br>
 &nbsp;&nbsp;&nbsp;&ndash; post build stitching<br>
